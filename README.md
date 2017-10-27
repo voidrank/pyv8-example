@@ -1,2 +1,2 @@
 # pyv8-example
-a example with pyv8 and scrapy
+an example with pyv8 and scrapy
